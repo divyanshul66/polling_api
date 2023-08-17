@@ -23,12 +23,8 @@ To install all the dependences of the project, run the following command:
 
 
 #### Deployment Link:
- - Link : https://polling-api-nwbj.onrender.com/
+ - Link :
 
-
-<p align="center">
-  Show some :heart: by starring the repository.
-</p>
 
 
 
